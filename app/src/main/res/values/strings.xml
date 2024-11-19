@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeTest</string>
+    <string name="user_details">User Details</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="blog">Blog</string>
+</resources>
